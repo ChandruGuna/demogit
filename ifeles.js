@@ -31,6 +31,7 @@ else if(marks >= 75){
     console.log("grade d");
     
  }
+ //Changes in master by jenu
  else{
     console.log("fail");
     

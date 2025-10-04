@@ -40,6 +40,6 @@
 // ("techonology");
 
 // arrow function
-// syntax
+// syntax array hypen matrix
 // const my=()=>{console.log("trends")}
 // my();

@@ -31,6 +31,7 @@ else if(marks >= 75){
     console.log("grade d");
     
  }
+ //sync a
  else{
     console.log("fail");
     

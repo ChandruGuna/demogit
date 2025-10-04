@@ -19,6 +19,7 @@ console.log(shi);
 
 // unshift 
 const unshi = [0,1,2,3,4,5]
+//hai
 unshi.unshift(0)
 console.log(unshi);
 
